@@ -1,0 +1,6 @@
+TODO: FINISH HINTS
+    - When using hints, have a boolean keep track if you used hints
+    - Ask confirm before accepting the hints
+    - Use a hint, no stars for you
+    - Size selector should have total stars displayed
+TODO: CREATE MORE SUDOKU'S WITH VARYING DIFFICULTIES

@@ -1,0 +1,29 @@
+TODO: 1. Finish the algorithm port, trying to make it as efficient as possible
+    COMPLETED: 1.1 Finish the DLX algorithm
+    COMPLETED: 1.2 Finish the matrix initialization
+    COMPLETED: 1.3 Finish the matrix to DLX
+    COMPLETED 1.4 Finish the method of input (most likely an int matrix from the GUI
+TODO: 2. Interface for the sudoku
+    COMPLETED : 2.1 Design interface for the user
+    COMPLETED : 2.2 Implement design
+TODO: 3. Implement extras
+    COMPLETED : 3.1 Add a timer to calculate how long it takes to solve
+        COMPLETED : 3.1.A Stars based on how fast it was completed.
+        COMPLETED : 3.1.B Saved progress even when it closes
+            COMPLETED : 3.1.B.1 Know the difference between what the user put and what the computer loaded on save
+    3.2 Chess rules
+    3.3 Math rules ? (might be hard but could be fun to try)
+    3.4 Special hints :
+        3.4.A Solve the sudoku for you
+        3.4.B Solve the box
+        3.4.C Solve the row
+        3.4.D Solve the column
+        3.4.E Solve the cell
+        3.4.F Solve in real time, if input is incorrect, colour it red
+    3.5 Create a sudoku live
+        3.5.A Live counter to know how many solutions the current sudoku has
+        3.5.B Once it only has 1 solution, offer to save
+TODO: 4. Create dynamic sudoku
+    4.1 Have the program come up with puzzles based on size
+        4.1.A Have a difficulty selector (amount of clues given)
+        4.1.B Make sure only 1 solution possible
